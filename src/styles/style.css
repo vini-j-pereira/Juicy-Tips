@@ -96,18 +96,20 @@ body{
 @media ( width <= 520px){
 
     .logo img{
-        width: 50px;
+        width: 65px;
     }
 
     .header-img{
         height: 90vh;
+        width: 100%;
+        overflow: hidden;
     }
 
     .header-img h1{
-        font-size: 20px;
+        font-size: 22px;
     }
 
     .header-img p{
-        font-size: 12px;
+        font-size: 14px;
     }
 }
